@@ -1,0 +1,1 @@
+alert("My name is Abdulmuqsit Adam, I am 6'5 tall and I am from Nigeria");
